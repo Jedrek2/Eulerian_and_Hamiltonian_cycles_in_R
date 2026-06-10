@@ -1,6 +1,6 @@
 Package: Cykle
 Type: Package
-Title: Cykle Eulera i Hamiltona w Grafach
+Title: Euler and Hamiltonian cycles in R
 Version: 1.0
 Author: Jedrzej Kwasny
 Maintainer: Jedrzej Kwasny <jedrzejkwasny2@gmail.com>

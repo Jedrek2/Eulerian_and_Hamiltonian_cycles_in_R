@@ -1,4 +1,4 @@
-# Cykle
+# Euler and Hamiltonian cycles in R
 
 An R package for finding Eulerian and Hamiltonian cycles in graphs using C algorithms.
 
@@ -12,7 +12,7 @@ An R package for finding Eulerian and Hamiltonian cycles in graphs using C algor
 
 ```r
 install.packages("devtools")
-devtools::install_github("Jedrek2/Cykle")
+devtools::install_github("Jedrek2/Euler_and_Hamiltonian_cycles_in_R")
 ```
 
 ## Usage
