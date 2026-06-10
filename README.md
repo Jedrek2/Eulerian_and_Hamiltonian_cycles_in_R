@@ -4,7 +4,7 @@ An R package for finding Eulerian and Hamiltonian cycles in graphs using C algor
 
 ## Description
 
-`Cykle` provides two functions:
+`Eulerian and Hamiltonian cycles in R` provides two functions:
 - `cykl_eulera()` — finds an Eulerian cycle using Hierholzer's algorithm
 - `cykl_hamiltona()` — finds a Hamiltonian cycle using backtracking
 
