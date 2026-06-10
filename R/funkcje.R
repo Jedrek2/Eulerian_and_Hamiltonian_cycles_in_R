@@ -21,6 +21,7 @@
 #' )), nrow = 4)
 #' cykl_hamiltona(graf)
 #'
+#' @useDynLib EulerianandHamiltonianCyclesinR, .registration = TRUE
 #' @export
 cykl_hamiltona <- function(graf) {
   if (!is.matrix(graf)) stop("Graf musi być macierzą.")
