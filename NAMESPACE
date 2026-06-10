@@ -1,0 +1,3 @@
+useDynLib(EulerianandHamiltonianCyclesinR, .registration = TRUE)
+export(cykl_eulera)
+export(cykl_hamiltona)
